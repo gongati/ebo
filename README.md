@@ -1,2 +1,2 @@
 # ebo
-This project is about creating an image for t shirt prints
+This project is about creating a simple image editing software
